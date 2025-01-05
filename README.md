@@ -15,5 +15,5 @@ RubyをメインにB問題10問解きました。
 | 6 | [#223](https://atcoder.jp/contests/abc223/tasks/abc223_b) | [回答](https://atcoder.jp/contests/abc223/submissions/61413782) |
 | 7 | [#224](https://atcoder.jp/contests/abc224/tasks/abc224_b) | [回答](https://atcoder.jp/contests/abc224/submissions/61413930) |
 | 8 |[#225](https://atcoder.jp/contests/abc225/tasks/abc225_b) | [回答](https://atcoder.jp/contests/abc225/submissions/61414027) |
-| 9 | TD | TD |
+| 9 |[#229](https://atcoder.jp/contests/abc229/tasks/abc229_b) | [回答](https://atcoder.jp/contests/abc229/submissions/61414186) |
 | 10 | TD | TD |
