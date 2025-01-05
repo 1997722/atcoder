@@ -7,5 +7,13 @@ JavaScriptとRubyでB問題を10問解きました。
 
 |  | 問題 | 回答 |
 | ---- | ---- | ---- |
-|  | TD | TD |
-|  | TD | TD |
+| 1 |[#317](https://atcoder.jp/contests/abc317/tasks/abc317_b) | [回答](https://atcoder.jp/contests/abc317/submissions/61411754) |
+| 2 | TD | TD |
+| 3 | TD | TD |
+| 4 | TD | TD |
+| 5 | TD | TD |
+| 6 | TD | TD |
+| 7 | TD | TD |
+| 8 | TD | TD |
+| 9 | TD | TD |
+| 10 | TD | TD |
