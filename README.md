@@ -13,7 +13,7 @@ RubyをメインにB問題10問解きました。
 | 4 | [#220](https://atcoder.jp/contests/abc220/tasks/abc220_b) | [回答](https://atcoder.jp/contests/abc220/submissions/61413454) |
 | 5 | [#221](https://atcoder.jp/contests/abc221/tasks/abc221_b) | [回答](https://atcoder.jp/contests/abc221/submissions/61413604) |
 | 6 | [#223](https://atcoder.jp/contests/abc223/tasks/abc223_b) | [回答](https://atcoder.jp/contests/abc223/submissions/61413782) |
-| 7 | TD | TD |
-| 8 | TD | TD |
+| 7 | [#224](https://atcoder.jp/contests/abc224/tasks/abc224_b) | [回答](https://atcoder.jp/contests/abc224/submissions/61413930) |
+| 8 |[#225](https://atcoder.jp/contests/abc225/tasks/abc225_b) | [回答](https://atcoder.jp/contests/abc225/submissions/61414027) |
 | 9 | TD | TD |
 | 10 | TD | TD |
